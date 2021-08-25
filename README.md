@@ -1,4 +1,4 @@
-## Hi 👋
+## Hey! 👋
 I am Tensor, a Year 2 Computer Science undergraduate at NUS
 
 ## Skills
