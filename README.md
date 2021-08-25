@@ -1,5 +1,6 @@
 ## Hey! 👋
-I am Tensor, a Year 2 Computer Science undergraduate at NUS
+I am Tensor, a Year 2 Computer Science undergraduate at NUS. 
+Passionate about Cyber Security and R&D into malware and exploits.
 
 ## Skills
 - 👨‍💻 Python, Java, C, Typescript
