@@ -1,10 +1,2 @@
-## Hey! 👋
-I am Tensor, a Year 2 Computer Science undergraduate at NUS. 
-Passionate about Cyber Security and R&D into malware and exploits.
-
-## Skills
-- 👨‍💻 Python, Java, C, Typescript
-- 💽 Sqlite, PostgreSQL
-- 🔨 Ghidra, dnSpy, Burp Suite, Unix
-
+## Hello! 👋
 ![yl-ang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yl-ang&count_private=true&show_icons=true&theme=cobalt)
